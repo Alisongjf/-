@@ -1,0 +1,25 @@
+
+        List<Student> list = new ArrayList<>();
+        for(int i=0;i<3;i++){
+            Student stu = new Student();
+            stu.setAddr("河南"+i);
+            stu.setAge(23+i);
+            stu.setName("王天亮"+i);
+            list.add(stu);
+        }
+        //流
+        if(list.stream().anyMatch(user->user.getAge()>23)){
+            List li=list.stream().filter(user->user.getAge()>23).collect(Collectors.toList());
+            li.forEach(System.out::println);
+        }
+        
+        //普通
+        List newlist = new ArrayList();
+        for(int i=0;i<list.size();i++){
+            Student student =list.get(i);
+            if(student.getAge()>23){
+                newlist.add(student);
+            }
+        }
+  =================================================================================================
+        
