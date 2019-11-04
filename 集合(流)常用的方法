@@ -21,5 +21,10 @@
                 newlist.add(student);
             }
         }
+        
+         /*
+        查询出list中所有学生名字并以‘#’字符相连
+         */
+        String st= list.stream().map(s->s.getName()).collect(Collectors.joining("#"));
   =================================================================================================
         
