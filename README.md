@@ -11,3 +11,8 @@ https://mp.weixin.qq.com/s?src=11&timestamp=1572869554&ver=1954&signature=iDRa76
 一个关于Java 8 新特性的文章：
 
 https://github.com/weiwosuoai/java8_guide
+
+
+java编程思想第五版
+
+https://github.com/LingCoder/OnJava8
