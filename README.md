@@ -21,3 +21,7 @@ https://github.com/LingCoder/OnJava8
 关于ideamaven创建多个项目：
 
 https://blog.csdn.net/williamhappy/article/details/54376855
+
+Idea中maven提供的41个骨架原型
+
+https://www.jianshu.com/p/cda3cd614658
