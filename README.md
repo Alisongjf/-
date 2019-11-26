@@ -16,3 +16,8 @@ https://github.com/weiwosuoai/java8_guide
 java编程思想第五版
 
 https://github.com/LingCoder/OnJava8
+
+
+关于ideamaven创建多个项目：
+
+https://blog.csdn.net/williamhappy/article/details/54376855
